@@ -41,7 +41,7 @@ Try your app on tablets in addition to handsets. Even if you have `ios.supportsT
 ## Common App Rejections
 
 - It's helpful to glance over [Common App Rejections](https://developer.apple.com/app-store/review/rejections/).
-- Binaries can get rejected for having poorly formatted icons, so double check the [App Icon guide](./app-icons.html).
+- Binaries can get rejected for having poorly formatted icons, so double check the [App Icon guide](../guides/app-icons.html).
 - Apple can reject your app if elements don't render properly on an iPad, even if your app doesn't target the iPad form factor. Be sure and test your app on an iPad (or iPad simulator).
 - Occasionally people get a message from Apple which mentions an IPv6 network. Typically this is just Apple's way of informing you what kind of network they tested on, and the actual "IPv6" detail is a red herring. All of Expo's iOS code uses `NSURLSession`, which is IPv6-compatible. [More info](https://forums.expo.io/t/ios-standalone-rejected-at-review-because-of-ipv6/7062).
 
