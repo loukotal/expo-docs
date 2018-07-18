@@ -28,7 +28,7 @@ Try your app on tablets in addition to handsets. Even if you have `ios.supportsT
 
 ## Tailor your app metadata
 
-- Add a great [icon](./app-icons.html). Icon requirements between iOS and Android differ and are fairly strict, so be sure and familiarize yourself with that guide.
+- Add a great [icon](../guides/app-icons.html). Icon requirements between iOS and Android differ and are fairly strict, so be sure and familiarize yourself with that guide.
 - Customize your [primaryColor](../guides/configuration.html#primarycolor).
 - Make sure your app has a valid iOS [Bundle Identifier](./configuration.html#bundleidentifier) and [Android Package](./configuration.html#package). Take care in choosing these, as you will not be able to change them later.
 - Use [versionCode](configuration.html#versioncode) and [buildNumber](configuration.html#buildnumber) to distinguish different binaries of your app.
