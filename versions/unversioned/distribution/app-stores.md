@@ -22,7 +22,7 @@ Try your app on tablets in addition to handsets. Even if you have `ios.supportsT
 
 ## Play nicely with the system UI
 
-- Configure the [status bar](./configuring-statusbar.html) so it doesn't clash with your interface.
+- Configure the [status bar](../guides/configuring-statusbar.html) so it doesn't clash with your interface.
 - Use [native gestures](../sdk/gesture-handler.html) whenever possible.
 - Use interface elements that make sense on the device. For example, see the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/).
 
